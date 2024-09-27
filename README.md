@@ -35,7 +35,7 @@ pip install pyttsx3 SpeechRecognition wikipedia smtplib
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/voxxa-voice-assistant.git
+   git clone https://github.com/ashutosh-dhawan2003/voxxa-voice-assistant.git
    ```
 
 2. Navigate to the project directory:
@@ -83,12 +83,3 @@ You can extend Voxxa by adding new voice commands and functionalities. Modify th
 ## Contributing
 
 If you'd like to contribute to Voxxa, feel free to fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to modify.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear understanding of what the project is about, its functionalities, how to run it, and how others can contribute.
-
